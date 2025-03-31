@@ -13,6 +13,10 @@ This is a simple chess bot implemented using Python and the `python-chess` libra
 - Basic evaluation function to assess board states
 - Supports moves for both human and AI
 
+## ♘ Screenshot
+![Chess Bot](ChessBot.png)
+
+
 ## ♛ Prerequisites
 Ensure you have the following installed:
 - Python 3.x
