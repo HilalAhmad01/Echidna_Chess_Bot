@@ -1,5 +1,8 @@
 # Echidna_Chess_Bot
 
+![Cover Photo](CoverPhoto.gif)
+
+
 
 
 This is a simple chess bot implemented using Python and the `python-chess` library. It uses a minimax algorithm with alpha-beta pruning to play against a human player.
