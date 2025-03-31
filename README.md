@@ -1,4 +1,4 @@
-# Echidna_Chess_Bot
+# Echidna Chess Bot
 
 ![Cover Photo](CoverPhoto.gif)
 
@@ -17,7 +17,7 @@ This is a simple chess bot implemented using Python and the `python-chess` libra
 ![Chess Bot](ChessBot.png)
 
 
-## ♛ Prerequisites
+## ♕ Prerequisites
 Ensure you have the following installed:
 - Python 3.x
 - `python-chess` library
@@ -27,12 +27,12 @@ Install the library using:
 pip install chess
 ```
 
-## ♚ Project Structure
+## ♖ Project Structure
 - `main.py` - Handles game logic and interaction
 - `chess_engine.py` - Implements the chess engine using minimax algorithm
 - `README.md` - Project documentation
 
-## ♞ How to Run
+## ♗ How to Run
 1. Clone the repository:
     ```bash
     git clone <repository_url>
@@ -56,6 +56,6 @@ pip install chess
 ## ♔ Contributions
 Feel free to contribute! Submit a pull request or open an issue for bug reports and feature requests.
 
-## ♕ License
+## ♙ License
 This project is licensed under the MIT License.
 
