@@ -35,7 +35,7 @@ pip install chess
 ## ♗ How to Run
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone <git clone https://github.com/HilalAhmad01/Echidna_Chess_Bot.git>
     cd Chess-Bot
     ```
 2. Run the game:
